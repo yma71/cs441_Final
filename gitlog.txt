@@ -1,0 +1,51 @@
+commit da69f2a35fded7060776d03ad5713468b1b65e17
+Author: 马演喆 <mayanzhe@mayanzhedeMac.local>
+Date:   Thu May 2 08:21:03 2019 -0700
+
+    first
+
+ .DS_Store                                          | Bin 0 -> 6148 bytes
+ README.md                                          |   4 +-
+ TapCars.xcodeproj/project.pbxproj                  | 328 +++++++++++++++++++++
+ .../project.xcworkspace/contents.xcworkspacedata   |   7 +
+ .../xcshareddata/IDEWorkspaceChecks.plist          |   8 +
+ .../UserInterfaceState.xcuserstate                 | Bin 0 -> 17831 bytes
+ .../UserInterfaceState.xcuserstate                 | Bin 0 -> 20724 bytes
+ .../xcdebugger/Breakpoints_v2.xcbkptlist           |   5 +
+ .../xcschemes/TapCars.xcscheme                     |  91 ++++++
+ .../xcschemes/xcschememanagement.plist             |  22 ++
+ .../xcschemes/xcschememanagement.plist             |  14 +
+ TapCars/AppDelegate.swift                          |  38 +++
+ .../AppIcon.appiconset/Contents.json               |  48 +++
+ TapCars/Assets.xcassets/Contents.json              |   6 +
+ .../TapCar (4).imageset/Contents.json              |  21 ++
+ .../TapCar (4).imageset/TapCar (4).png             | Bin 0 -> 1125043 bytes
+ .../Assets.xcassets/blueCar.imageset/Contents.json |  21 ++
+ .../blueCar.imageset/car_blue_1.png                | Bin 0 -> 2770 bytes
+ .../greenCar.imageset/Contents.json                |  21 ++
+ .../greenCar.imageset/car_green_1.png              | Bin 0 -> 2785 bytes
+ .../orangeCar.imageset/Contents.json               |  21 ++
+ .../orangeCar.imageset/car_red_1.png               | Bin 0 -> 2734 bytes
+ .../Assets.xcassets/rock.imageset/Contents.json    |  21 ++
+ TapCars/Assets.xcassets/rock.imageset/rock2.png    | Bin 0 -> 1242 bytes
+ .../Assets.xcassets/tree.imageset/Contents.json    |  21 ++
+ .../Assets.xcassets/tree.imageset/tree_small.png   | Bin 0 -> 3132 bytes
+ TapCars/Base.lproj/LaunchScreen.storyboard         |  27 ++
+ TapCars/Base.lproj/Main.storyboard                 |  30 ++
+ TapCars/GameMenu.sks                               | Bin 0 -> 6142 bytes
+ TapCars/GameMenu.swift                             |  16 +
+ TapCars/GameScene.sks                              | Bin 0 -> 8712 bytes
+ TapCars/GameScene.swift                            |  70 +++++
+ TapCars/GameViewController.swift                   |  34 +++
+ TapCars/Helper.swift                               |  24 ++
+ TapCars/Info.plist                                 |  40 +++
+ 35 files changed, 937 insertions(+), 1 deletion(-)
+
+commit aefc6ff972193ffead2a5156ed21faf89bae4913
+Author: yma71 <31296106+yma71@users.noreply.github.com>
+Date:   Thu May 2 07:51:59 2019 -0700
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
