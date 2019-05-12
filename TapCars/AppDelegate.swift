@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  TapCars
-//
-//  Created by Kishan Nakum on 24/01/17.
-//  Copyright © 2017 kishan nakum. All rights reserved.
-//
+
 
 import UIKit
 

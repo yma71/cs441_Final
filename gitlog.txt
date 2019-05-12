@@ -1,3 +1,38 @@
+commit 91a4d5cc0df0b48e36d0a824596056b22b076a2a
+Author: 马演喆 <mayanzhe@mayanzhedeMac.local>
+Date:   Sun May 12 07:25:37 2019 -0700
+
+    Final
+
+ 1.png                                               | Bin 0 -> 133126 bytes
+ 2.png                                               | Bin 0 -> 26241 bytes
+ 3.png                                               | Bin 0 -> 21258 bytes
+ .../UserInterfaceState.xcuserstate                  | Bin 20724 -> 20828 bytes
+ TapCars/GameViewController.swift                    |  16 +++++++++++++++-
+ TapCars/Helper.swift                                |   6 ++++++
+ 6 files changed, 21 insertions(+), 1 deletion(-)
+
+commit 251ee018f840344ef988b9cb7272ca88e5b76e1f
+Author: 马演喆 <mayanzhe@mayanzhedeMac.local>
+Date:   Sat May 11 07:34:40 2019 -0700
+
+    final
+
+ TapCars/GameMenu.swift  |  17 +++
+ TapCars/GameScene.swift | 272 +++++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 288 insertions(+), 1 deletion(-)
+
+commit 1bdaae21ae5b4ef031634a9a0664af7331a54e02
+Author: 马演喆 <mayanzhe@mayanzhedeMac.local>
+Date:   Wed May 8 07:45:50 2019 -0700
+
+    Final
+
+ .DS_Store                 | Bin 6148 -> 6148 bytes
+ TapCars/AppDelegate.swift |   8 ++++++++
+ gitlog.txt                |  51 ++++++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 59 insertions(+)
+
 commit da69f2a35fded7060776d03ad5713468b1b65e17
 Author: 马演喆 <mayanzhe@mayanzhedeMac.local>
 Date:   Thu May 2 08:21:03 2019 -0700

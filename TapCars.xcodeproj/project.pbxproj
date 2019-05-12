@@ -111,7 +111,7 @@
 				TargetAttributes = {
 					21717EB51E3739EF00E12B2E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = D2E64D69SN;
+						DevelopmentTeam = GXH9P82UZD;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -279,10 +279,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = D2E64D69SN;
+				DEVELOPMENT_TEAM = GXH9P82UZD;
 				INFOPLIST_FILE = TapCars/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kishan.TapCars;
+				PRODUCT_BUNDLE_IDENTIFIER = TapCars;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -292,10 +292,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = D2E64D69SN;
+				DEVELOPMENT_TEAM = GXH9P82UZD;
 				INFOPLIST_FILE = TapCars/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kishan.TapCars;
+				PRODUCT_BUNDLE_IDENTIFIER = TapCars;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
